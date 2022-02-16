@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f1d1babc-c43d-1f07-64ef-1e5e6df16aaa
 ---
@@ -288,7 +291,7 @@ Spinodal Decomposition and Continuous Ordering ([PDF]({{< baseurl >}}/resources/
 {{< tdopen >}}
 BCC Alloys in the Bragg-Williams Approximation, bcc\_alloys.nb ([NB](/courses/materials-science-and-engineering/3-21-kinetic-processes-in-materials-spring-2006/lecture-notes/bcc_alloys.nb))  
   
-Free energy model for BCC and CsCl structure with first-neighbor interactions. Calculates miscibility gap for W < 0 and excess free energy per unit area of diffuse interface.
+Free energy model for BCC and CsCl structure with first-neighbor interactions. Calculates miscibility gap for W \< 0 and excess free energy per unit area of diffuse interface.
 {{< tdclose >}}
 
 {{< trclose >}}
