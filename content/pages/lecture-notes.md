@@ -131,7 +131,7 @@ L9
 Solutions to the Diffusion Equation - III ([PDF]({{< baseurl >}}/resources/ls9))
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions to the Diffusion Equation, diffusion\_soln.nb ([NB](/courses/materials-science-and-engineering/3-21-kinetic-processes-in-materials-spring-2006/lecture-notes/diffusion_soln.nb)) (Courtesy of Miguel Marioni. Used with permission.)  
+Solutions to the Diffusion Equation, diffusion\_soln.nb ([NB]({{< baseurl >}}/resources/diffusion_soln)) (Courtesy of Miguel Marioni. Used with permission.)  
   
 Numerical work illustrating some solutions to diffusion boundary-value problems; plots of closed form solutions as well as solutions by finite differences.
 {{< tdclose >}}
@@ -289,7 +289,7 @@ L22
 Spinodal Decomposition and Continuous Ordering ([PDF]({{< baseurl >}}/resources/ls22))
 {{< tdclose >}}
 {{< tdopen >}}
-BCC Alloys in the Bragg-Williams Approximation, bcc\_alloys.nb ([NB](/courses/materials-science-and-engineering/3-21-kinetic-processes-in-materials-spring-2006/lecture-notes/bcc_alloys.nb))  
+BCC Alloys in the Bragg-Williams Approximation, bcc\_alloys.nb ([NB]({{< baseurl >}}/resources/bcc_alloys))  
   
 Free energy model for BCC and CsCl structure with first-neighbor interactions. Calculates miscibility gap for W \< 0 and excess free energy per unit area of diffuse interface.
 {{< tdclose >}}
@@ -303,7 +303,7 @@ L23
 Spinodal Decomposition Kinetics ([PDF]({{< baseurl >}}/resources/ls23))
 {{< tdclose >}}
 {{< tdopen >}}
-Kinetics of Spinodal Decomposition, spinodal.nb ([NB](/courses/materials-science-and-engineering/3-21-kinetic-processes-in-materials-spring-2006/lecture-notes/spinodal.nb))  
+Kinetics of Spinodal Decomposition, spinodal.nb ([NB]({{< baseurl >}}/resources/spinodal))  
   
 Extension of the prior lecture's Mathematica notebook, to cover kinetics of spinodal decomposition including kinetic and thermodynamic wavenumbers, temperature dependence, etc.
 {{< tdclose >}}
@@ -353,7 +353,7 @@ L27
 Morphological Stability of Moving Interfaces ([PDF]({{< baseurl >}}/resources/ls27))
 {{< tdclose >}}
 {{< tdopen >}}
-Diffusional Growth, diffusion\_growth.nb ([NB](/courses/materials-science-and-engineering/3-21-kinetic-processes-in-materials-spring-2006/lecture-notes/diffusion_growth.nb))  
+Diffusional Growth, diffusion\_growth.nb ([NB]({{< baseurl >}}/resources/diffusion_growth))  
   
 This Mathematica notebook covers growth of a spherical precipitate from supersaturated solution. Calculates rate constant for diffusional growth, interfacial velocity, concentration profile in matrix using exact solution. Explores using stationary-field approximation to calculate interface velocity and concentration profile. Introduces spherical harmonic functions for describing shape perturbations of a sphere.  
   
