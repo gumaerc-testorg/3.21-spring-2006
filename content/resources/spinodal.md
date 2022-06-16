@@ -3,7 +3,7 @@ content_type: resource
 description: Extension of the prior lecture's Mathematica notebook, to cover kinetics
   of spinodal decomposition including kinetic and thermodynamic wavenumbers, temperature
   dependence, etc.
-file: /media/courses/3-21-kinetic-processes-in-materials-spring-2006/950e2ec6d4abab320fa707e52b9329c0_spinodal.nb
+file: /courses/3-21-kinetic-processes-in-materials-spring-2006/950e2ec6d4abab320fa707e52b9329c0_spinodal.nb
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
@@ -15,3 +15,5 @@ resourcetype: Other
 title: spinodal.nb
 uid: 950e2ec6-d4ab-ab32-0fa7-07e52b9329c0
 ---
+Extension of the prior lecture's Mathematica notebook, to cover kinetics of spinodal decomposition including kinetic and thermodynamic wavenumbers, temperature dependence, etc.
+

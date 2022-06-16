@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: The Assignments section lists the homework problems suggested to accompany
+  each lecture session.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 4c5eafee-2f6c-a70f-19ec-872a4f66b347
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page lists the homework problems suggested to accompany each lecture session. These problems are not graded, but students are strongly encouraged to work through them.
@@ -61,7 +67,7 @@ L3
 Driving Forces and Fluxes for Diffusion; Self-Diffusion and Interdiffusion
 {{< tdclose >}}
 {{< tdopen >}}
-See the end of lecture summary for SES #L3 ([PDF]({{< baseurl >}}/resources/ls3))
+See the end of lecture summary for SES #L3 ({{% resource_link 2558a1b5-bd13-6913-559d-72f5d3441919 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
