@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: The Syllabus section presents various course policies and a course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d7fec9cb-64b7-289a-e076-aab395731d45
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents various course policies and a [course calendar](#Course_Calendar).
