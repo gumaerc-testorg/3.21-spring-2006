@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: scalar_field.nb
 uid: 8cebfffd-a8a6-4680-aa17-45c389baefaf

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -24,4 +25,3 @@ video_metadata:
   youtube_id: null
 ---
 This illustration accompanies the Mathematica notebook on Diffusional Growth. To load in the notebook, place this file in your user directory. (Reprinted with permission of ASM International?. All rights reserved.)
-

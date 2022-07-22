@@ -7,6 +7,7 @@ file: /courses/3-21-kinetic-processes-in-materials-spring-2006/c0781d1739e9bb1d9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the 4 questions on reduction reaction, defect reaction, charge neutrality condition, diffusion along a grain boundary, Gibbs-Thompson equation.
-

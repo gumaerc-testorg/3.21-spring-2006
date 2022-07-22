@@ -6,6 +6,7 @@ file: /courses/3-21-kinetic-processes-in-materials-spring-2006/2a3e416d22baf36a6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains references and key concepts about periodic or finite geometries, method of Laplace transforms, and related exercise.
-

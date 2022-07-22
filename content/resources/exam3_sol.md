@@ -6,6 +6,7 @@ file: /courses/3-21-kinetic-processes-in-materials-spring-2006/2e9e524e6188c5b3e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions for the 3 questions on spinodal decomposition, fully-facetted critical nucleus forms, surface energy anisotropy.
-
