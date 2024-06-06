@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains references and key concepts about empirical laws,
   entropy, and diffusion potential.
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/b1cdbb3dcc1b154312dd7bd32eb9c379_ls2.pdf
+file_size: 24982
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

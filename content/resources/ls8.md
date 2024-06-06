@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains references and key concepts about steady state
   diffusion, super position of image, and ion implantation.
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/80f6de86ffaab6d70c3b068ae11623de_ls8.pdf
+file_size: 33907
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
