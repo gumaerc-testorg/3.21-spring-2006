@@ -4,6 +4,7 @@ description: Free energy model for BCC and CsCl structure with first-neighbor in
   Calculates miscibility gap for W < 0 and excess free energy per unit area of diffuse
   interface.
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/324d0b8f4968c41ff0ee09437a6f0a06_bcc_alloys.nb
+file_size: 505146
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

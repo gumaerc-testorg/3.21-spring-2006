@@ -4,6 +4,7 @@ description: This illustration accompanies the Mathematica notebook on Diffusion
   Growth. To load in the notebook, place this file in your user directory. (Reprinted
   with permission of ASM International?. All rights reserved.)
 file: /courses/3-21-kinetic-processes-in-materials-spring-2006/cf286cf1b95fb84c932fc2765d644623_CrNi.tif
+file_size: 198754
 file_type: image/tiff
 image_metadata:
   caption: ''
