@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains references and key concepts about diffusivity,
   eigen system, and scaling transformation.
-file: /courses/3-21-kinetic-processes-in-materials-spring-2006/03234a0872ca8ab3d05022e65dc62d85_ls7.pdf
+file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/03234a0872ca8ab3d05022e65dc62d85_ls7.pdf
 file_size: 36653
 file_type: application/pdf
 learning_resource_types:

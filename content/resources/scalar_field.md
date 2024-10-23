@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/3-21-kinetic-processes-in-materials-spring-2006/scalar_field.nb
+file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/scalar_field.nb
 file_size: 9825
 file_type: text/html
 image_metadata:
