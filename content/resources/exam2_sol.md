@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions for the 4 questions on reduction reaction,
   defect reaction, charge neutrality condition, diffusion along a grain boundary,
   Gibbs-Thompson equation.
-file: /courses/3-21-kinetic-processes-in-materials-spring-2006/c0781d1739e9bb1d94df40bf97e20a91_exam2_sol.pdf
+file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/c0781d1739e9bb1d94df40bf97e20a91_exam2_sol.pdf
 file_size: 72602
 file_type: application/pdf
 learning_resource_types:
