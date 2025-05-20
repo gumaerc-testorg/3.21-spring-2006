@@ -5,7 +5,7 @@ description: This Mathematica notebook covers growth of a spherical precipitate 
   velocity, concentration profile in matrix using exact solution. Explores using stationary-field
   approximation to calculate interface velocity and concentration profile. Introduces
   spherical harmonic functions for describing shape perturbations of a sphere.
-file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/e959de5c454869a358907158bd249ee4_diffusion_growth.nb
+file: /courses/3-21-kinetic-processes-in-materials-spring-2006/e959de5c454869a358907158bd249ee4_diffusion_growth.nb
 file_size: 15470
 file_type: text/plain
 learning_resource_types:
