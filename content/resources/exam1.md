@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains instructions for the exam and 6 questions on copupled
   forces and fluxes, diffusion potential, interdiffusion zone, atomic size.
-file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/150d823c88612a345b1d32a0d703b258_exam1.pdf
+file: /courses/3-21-kinetic-processes-in-materials-spring-2006/150d823c88612a345b1d32a0d703b258_exam1.pdf
 file_size: 46508
 file_type: application/pdf
 learning_resource_types:

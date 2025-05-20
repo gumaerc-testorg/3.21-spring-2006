@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains references and key concepts about capillarity,
   diffusion potential, and diffusion potential.
-file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/44fe0b888d0d01732fa446f1df63383c_ls5.pdf
+file: /courses/3-21-kinetic-processes-in-materials-spring-2006/44fe0b888d0d01732fa446f1df63383c_ls5.pdf
 file_size: 31724
 file_type: application/pdf
 learning_resource_types:
