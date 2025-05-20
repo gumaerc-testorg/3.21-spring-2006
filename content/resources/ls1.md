@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains references and key concepts based on thermodynamics,
   gradient, and numerous kinetic processes.
-file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/d4a672bd4524140f47b99643b5ccf689_ls1.pdf
+file: /courses/3-21-kinetic-processes-in-materials-spring-2006/d4a672bd4524140f47b99643b5ccf689_ls1.pdf
 file_size: 23137
 file_type: application/pdf
 learning_resource_types:
