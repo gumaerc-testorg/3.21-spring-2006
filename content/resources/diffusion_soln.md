@@ -3,7 +3,7 @@ content_type: resource
 description: Numerical work illustrating some solutions to diffusion boundary-value
   problems; plots of closed form solutions as well as solutions by finite differences.
   (Courtesy of Miguel Marioni. Used with permission.)
-file: /courses/3-21-kinetic-processes-in-materials-spring-2006/2b181e9fd6675a02b15b9da95b0d07b0_diffusion_soln.nb
+file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/2b181e9fd6675a02b15b9da95b0d07b0_diffusion_soln.nb
 file_size: 44787
 file_type: text/plain
 learning_resource_types:
