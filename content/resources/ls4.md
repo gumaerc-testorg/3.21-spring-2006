@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains references and key concepts about interdiffusion,
   kirkendall effect, mobility, and flux.
-file: /courses/3-21-kinetic-processes-in-materials-spring-2006/3453d577b53c280708513740833c4932_ls4.pdf
+file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/3453d577b53c280708513740833c4932_ls4.pdf
 file_size: 30943
 file_type: application/pdf
 learning_resource_types:

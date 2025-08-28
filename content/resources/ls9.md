@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains references and key concepts about periodic or
   finite geometries, method of Laplace transforms, and related exercise.
-file: /courses/3-21-kinetic-processes-in-materials-spring-2006/2a3e416d22baf36a6ff9fc01b4458932_ls9.pdf
+file: /ol-ocw-studio-app/courses/3-21-kinetic-processes-in-materials-spring-2006/2a3e416d22baf36a6ff9fc01b4458932_ls9.pdf
 file_size: 41749
 file_type: application/pdf
 learning_resource_types:
