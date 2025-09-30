@@ -203,7 +203,7 @@ Diffusional Growth, diffusion\_growth.nb ({{% resource_link "e959de5c-4548-69a3-
 
 This Mathematica notebook covers growth of a spherical precipitate from supersaturated solution. Calculates rate constant for diffusional growth, interfacial velocity, concentration profile in matrix using exact solution. Explores using stationary-field approximation to calculate interface velocity and concentration profile. Introduces spherical harmonic functions for describing shape perturbations of a sphere.
 
-Ni-Cr Equilibrium Diagram, CrNi.tif ({{% resource_link "cf286cf1-b95f-b84c-932f-c2765d644623" "TIF" %}}) (Reprinted with permission of [ASM International®](http://www.asminternational.org/). All rights reserved.)
+Ni-Cr Equilibrium Diagram, CrNi.tif ({{% resource_link "cf286cf1-b95f-b84c-932f-c2765d644623" "TIF" %}}) (Reprinted with permission of {{% resource_link "7b126d8e-adc5-40c9-8de2-6f7878cf7d7a" "ASM International®" %}}. All rights reserved.)
 
 This illustration accompanies the Mathematica notebook on Diffusional Growth. To load in the notebook, place this file in your user directory.
 
